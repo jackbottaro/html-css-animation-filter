@@ -67,6 +67,13 @@
   background: red;
   transition: 1s;
 }
+
+/* Mia Soluzione 6 */
+
+.ex-6-img:hover {
+  filter: grayscale(1);
+}
+
 .ex-6-img,
 .ex-7-img,
 .ex-8-img {
