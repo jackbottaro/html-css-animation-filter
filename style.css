@@ -74,6 +74,16 @@
   filter: grayscale(1);
 }
 
+/* Mia Soluzione 7 */
+
+.ex-7-img:hover {
+  filter: grayscale(1);
+}
+
+.ex-7-img {
+  transition: 4s;
+}
+
 .ex-6-img,
 .ex-7-img,
 .ex-8-img {
