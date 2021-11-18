@@ -100,9 +100,18 @@
   width: 500px;
 }
 
+/* Mia Soluzione 9 */
+
+.ex-9-img:hover {
+  border-radius: 20px;
+  filter: sepia(0.5);
+  scale: 1.5;
+}
+
 .ex-9-img {
   margin: 50px 100px;
   width: 400px;
+  transition: 2s;
 }
 .ex-10-icon {
   font-size: 60px;
