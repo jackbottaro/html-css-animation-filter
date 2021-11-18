@@ -84,6 +84,16 @@
   transition: 4s;
 }
 
+/* Mia Soluzione 8 */
+
+.ex-8-img:hover {
+  border-radius: 20px;
+  filter: sepia(1);
+}
+.ex-8-img {
+  transition: 2s;
+}
+
 .ex-6-img,
 .ex-7-img,
 .ex-8-img {
