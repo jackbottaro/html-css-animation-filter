@@ -113,9 +113,28 @@
   width: 400px;
   transition: 2s;
 }
+
+/* Mia Soluzione 10 */
+
+.ex-10 .fa-circle-notch {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
 .ex-10-icon {
   font-size: 60px;
 }
+
+/* Mia Soluzione 10 */
 .ex-11-icon {
   font-size: 60px;
 }
